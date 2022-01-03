@@ -53,8 +53,8 @@ const AppContainer = createAppContainer(SwitchNavigator);
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
+    backgroundColor: '#000',
+    alignItems: 'left',
     justifyContent: 'center',
   },
 });
